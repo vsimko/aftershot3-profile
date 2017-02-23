@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Camera skip="false">
+  <Maker>SONY</Maker>
+  <Model>ILCE-7M2</Model>
+  <CropMultiplier>1</CropMultiplier>
+  <Mount>sony</Mount>
+ </Camera>
+</LenseDb>

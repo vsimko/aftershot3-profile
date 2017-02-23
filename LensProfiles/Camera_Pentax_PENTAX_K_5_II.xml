@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Camera skip="false">
+  <Maker>PENTAX</Maker>
+  <Model>PENTAX K-5 II</Model>
+  <CropMultiplier>1.5</CropMultiplier>
+  <Mount>pentaxslr</Mount>
+  <Mount>genericslr</Mount>
+  <Mount>pentax</Mount>
+ </Camera>
+</LenseDb>

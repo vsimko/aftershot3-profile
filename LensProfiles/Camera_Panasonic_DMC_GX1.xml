@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Camera skip="false">
+  <Maker>Panasonic</Maker>
+  <Model>DMC-GX1</Model>
+  <CropMultiplier>2</CropMultiplier>
+  <Mount>micro43</Mount>
+ </Camera>
+</LenseDb>
