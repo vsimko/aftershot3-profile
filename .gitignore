@@ -1,0 +1,19 @@
+/cache/
+/Plugins*/
+/locale/
+*.log
+/Watermarks/
+/Gallery/
+/defaults/
+/batches/
+/Download.batch
+/Print.queue
+/SaveAs.batch
+/folders.txt
+/hotkeys.xml
+/sequences.txt
+/softProofProfiles.xml
+/CopySets/
+/rootdb
+/layouts/
+/User Profiles/
