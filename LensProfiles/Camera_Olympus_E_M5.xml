@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Camera skip="false">
+  <Maker>OLYMPUS IMAGING CORP.</Maker>
+  <Model>E-M5</Model>
+  <CropMultiplier>2</CropMultiplier>
+  <Mount>micro43</Mount>
+  <Mount>olympus</Mount>
+ </Camera>
+</LenseDb>
