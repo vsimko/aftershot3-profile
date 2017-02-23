@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Sony 70-300mm f/4.5-5.6 G SSM (SAL70300G) or G SSM II or Tamron Lens</Model>
+  <Mount>sony</Mount>
+  <Exif id="52" provider="Sony"/>
+  <FocalLength min="120" max="120"/>
+  <Aperture>0</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="70" a="0" b="0" c="0"/>
+   <RadialDistortion focal="85" a="0" b="0" c="0"/>
+   <RadialDistortion focal="90" a="0" b="0" c="0"/>
+   <RadialDistortion focal="100" a="0" b="0" c="0"/>
+   <RadialDistortion focal="110" a="0" b="0" c="0"/>
+   <RadialDistortion focal="120" a="0" b="0" c="0"/>
+   <RadialDistortion focal="200" a="0" b="0" c="0"/>
+   <RadialDistortion focal="300" a="0" b="0" c="0"/>
+   <Vignetting strength="0.5" radius="50" focal="70"/>
+   <Vignetting strength="0.5" radius="50" focal="85"/>
+   <Vignetting strength="0.5" radius="50" focal="90"/>
+   <Vignetting strength="0.5" radius="50" focal="100"/>
+   <Vignetting strength="0.5" radius="50" focal="110"/>
+   <Vignetting strength="0.5" radius="50" focal="200"/>
+   <Vignetting strength="0.5" radius="50" focal="300"/>
+   <ChromaticAberration b_y="0.05" r_c="0.04" focal="70"/>
+   <ChromaticAberration b_y="0.03" r_c="0.03" focal="85"/>
+   <ChromaticAberration b_y="0.07" r_c="0.03" focal="90"/>
+   <ChromaticAberration b_y="0.03" r_c="0.01" focal="100"/>
+   <ChromaticAberration b_y="0.03" r_c="0.01" focal="110"/>
+   <ChromaticAberration b_y="0.01" r_c="-0.04" focal="200"/>
+   <ChromaticAberration b_y="-0.03" r_c="-0.07" focal="300"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

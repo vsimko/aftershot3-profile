@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Olympus Pen-F 40mm f/1.4</Model>
+  <Mount>sony</Mount>
+  <Exif id="65536" provider="Sony"/>
+  <FocalLength min="40" max="40"/>
+  <Aperture>1.4</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="40" a="0" b="-0.012" c="0"/>
+   <Vignetting strength="0.8" radius="70" focal="40"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

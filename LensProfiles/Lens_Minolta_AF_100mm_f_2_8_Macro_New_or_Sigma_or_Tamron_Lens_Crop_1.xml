@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Minolta AF 100mm f/2.8 Macro [New] or Sigma or Tamron Lens</Model>
+  <Mount>sony</Mount>
+  <Exif id="2581" provider="Minolta"/>
+  <Exif id="2581" provider="Sony"/>
+  <Exif id="25811" provider="Sony"/>
+  <FocalLength min="100" max="100"/>
+  <Aperture>0</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="100" a="0" b="0" c="0"/>
+   <Vignetting strength="0.5" radius="50" focal="100"/>
+   <ChromaticAberration b_y="0" r_c="0" focal="100"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

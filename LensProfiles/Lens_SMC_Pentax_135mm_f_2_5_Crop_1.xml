@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>SMC Pentax 135mm f/2.5</Model>
+  <Mount>sony</Mount>
+  <Exif id="65536" provider="Sony"/>
+  <FocalLength min="135" max="135"/>
+  <Aperture>2.5</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients/>
+ </Lens>
+</LenseDb>

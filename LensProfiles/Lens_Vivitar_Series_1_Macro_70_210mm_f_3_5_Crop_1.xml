@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Vivitar Series 1 Macro 70-210mm f/3.5</Model>
+  <Mount>sony</Mount>
+  <Exif id="65536" provider="Sony"/>
+  <FocalLength min="70" max="210"/>
+  <Aperture>3.5</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients/>
+ </Lens>
+</LenseDb>

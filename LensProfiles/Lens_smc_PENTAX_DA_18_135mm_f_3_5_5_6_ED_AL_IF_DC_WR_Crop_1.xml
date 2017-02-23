@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>smc PENTAX-DA 18-135mm f/3.5-5.6 ED AL [IF] DC WR</Model>
+  <Mount>pentaxslr</Mount>
+  <Exif id="8 215" provider="Pentax"/>
+  <FocalLength min="18" max="135"/>
+  <Aperture>3.5</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="18" a="0" b="0" c="0"/>
+   <RadialDistortion focal="135" a="0" b="0" c="0"/>
+   <Vignetting strength="0.5" radius="50" focal="18"/>
+   <ChromaticAberration b_y="0" r_c="0" focal="18"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

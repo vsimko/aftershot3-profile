@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Minolta MD 50mm f/1.4</Model>
+  <Mount>sony</Mount>
+  <FocalLength min="50" max="50"/>
+  <Aperture>1.4</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="50" a="0" b="0" c="0"/>
+   <Vignetting strength="0.5" radius="50" focal="50"/>
+   <ChromaticAberration b_y="0" r_c="0" focal="50"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

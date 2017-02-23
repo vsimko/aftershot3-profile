@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Sony FE 28-70mm f/3.5-5.6 OSS</Model>
+  <Mount>sony</Mount>
+  <Exif id="32813" provider="Sony"/>
+  <Exif id="6553.23" provider="Sony"/>
+  <Exif id="65535" provider="Sony"/>
+  <Exif id="65535.23" provider="Sony"/>
+  <Exif id="FE 28-70mm F3.5-5.6 OSS" provider="Sony"/>
+  <FocalLength min="28" max="70"/>
+  <Aperture>0</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="28" a="0.00900771" b="-0.0310341" c="0.00110802"/>
+   <RadialDistortion focal="34" a="0.0110131" b="-0.0342976" c="0.0325604"/>
+   <RadialDistortion focal="49" a="0.00652285" b="0.000355028" c="0.00747157"/>
+   <RadialDistortion focal="58" a="0.0106412" b="-0.0116139" c="0.0218262"/>
+   <RadialDistortion focal="70" a="0.00952653" b="-0.0142895" c="0.0363005"/>
+   <Vignetting strength="0.5" radius="50" focal="28"/>
+   <Vignetting strength="0.5" radius="50" focal="35"/>
+   <Vignetting strength="0.5" radius="50" focal="70"/>
+   <ChromaticAberration b_y="0" r_c="0" focal="28"/>
+   <ChromaticAberration b_y="0" r_c="0" focal="35"/>
+   <ChromaticAberration b_y="0" r_c="0" focal="70"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

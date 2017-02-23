@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Tamron SP 70-200mm f/2.8 Di USD</Model>
+  <Mount>sony</Mount>
+  <Exif id="203" provider="Sony"/>
+  <FocalLength min="200" max="200"/>
+  <Aperture>0</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="200" a="0" b="0" c="0"/>
+   <Vignetting strength="0.5" radius="50" focal="200"/>
+   <ChromaticAberration b_y="0" r_c="-0.04" focal="200"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

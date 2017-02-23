@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>VIVITAR Auto Telephoto 135mm f/2.8</Model>
+  <Mount>sony</Mount>
+  <Exif id="65536" provider="Sony"/>
+  <FocalLength min="135" max="135"/>
+  <Aperture>0</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="135" a="0" b="0" c="0"/>
+   <Vignetting strength="0.5" radius="50" focal="135"/>
+   <ChromaticAberration b_y="0" r_c="0" focal="135"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

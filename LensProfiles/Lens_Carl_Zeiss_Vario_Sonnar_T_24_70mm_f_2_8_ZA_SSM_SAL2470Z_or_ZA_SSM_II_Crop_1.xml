@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Carl Zeiss Vario-Sonnar T* 24-70mm f/2.8 ZA SSM (SAL2470Z) or ZA SSM II</Model>
+  <Mount>sony</Mount>
+  <Exif id="48" provider="Sony"/>
+  <FocalLength min="24" max="70"/>
+  <Aperture>2.8</Aperture>
+  <CropMultiplier>1</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="24" a="0" b="-0.007" c="-0.027"/>
+   <RadialDistortion focal="35" a="0" b="0" c="0"/>
+   <RadialDistortion focal="70" a="0" b="0" c="0"/>
+   <Vignetting strength="0.5" radius="50" focal="24"/>
+   <Vignetting strength="0.5" radius="50" focal="35"/>
+   <Vignetting strength="0.5" radius="50" focal="70"/>
+   <ChromaticAberration b_y="0.03" r_c="0.06" focal="24"/>
+   <ChromaticAberration b_y="0" r_c="0.06" focal="35"/>
+   <ChromaticAberration b_y="0" r_c="0" focal="70"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>
