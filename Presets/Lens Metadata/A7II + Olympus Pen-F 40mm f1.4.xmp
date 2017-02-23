@@ -1,0 +1,54 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:bib="http://www.bibblelabs.com/BibbleToplevel/5.0/"
+    xmlns:bset="http://www.bibblelabs.com/BibbleSettings/5.0/"
+    xmlns:blay="http://www.bibblelabs.com/BibbleLayers/5.0/"
+    xmlns:bopt="http://www.bibblelabs.com/BibbleOpt/5.0/">
+   <bib:settings>
+    <rdf:Description
+     bset:settingsVersion="66"
+     bset:respectsTransform="True"
+     bset:curLayer="0">
+    <bset:layers>
+     <rdf:Seq>
+      <rdf:li>
+       <rdf:Description
+        blay:layerId="0"
+        blay:layerPos="0"
+        blay:name=""
+        blay:enabled="True">
+       <blay:options
+        bopt:hasSettings="true"
+        bopt:cropon="true"
+        bopt:cropstyle="0"
+        bopt:cropleft="0.0156667"
+        bopt:croptop="0.0109224"
+        bopt:cropheight="2"
+        bopt:cropwidth="3"
+        bopt:cropdpi="-1"
+        bopt:cropmenuitem="Fitted Crop;3;2;2000;Aspect"
+        bopt:croppercent="0.958828"
+        bopt:warpon="true"
+        bopt:warpa="0"
+        bopt:warpb="-0.0120000001043081"
+        bopt:warpc="0"
+        bopt:warpresize="true"
+        bopt:warpfocal="40"
+        bopt:vignetteon="true"
+        bopt:vignetterad="70"
+        bopt:vignetteamt="0.80"
+        bopt:profilemake="Sony"
+        bopt:profilemodel="ILCE-7M2"
+        bopt:profilelens="Olympus Pen-F 40mm f/1.4"
+        bopt:lens="Olympus Pen-F 40mm f/1.4"
+        />
+       </rdf:Description>
+      </rdf:li>
+     </rdf:Seq>
+    </bset:layers>
+    </rdf:Description>
+   </bib:settings>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
