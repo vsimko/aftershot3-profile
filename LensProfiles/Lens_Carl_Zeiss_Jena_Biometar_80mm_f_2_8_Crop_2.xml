@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Carl Zeiss Jena Biometar 80mm f/2.8</Model>
+  <Mount>olympus</Mount>
+  <Exif id="0 0 0" provider="Olympus"/>
+  <FocalLength min="80" max="80"/>
+  <Aperture>2.8</Aperture>
+  <CropMultiplier>2</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients/>
+ </Lens>
+</LenseDb>

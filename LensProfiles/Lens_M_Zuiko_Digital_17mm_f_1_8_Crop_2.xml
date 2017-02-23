@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>M.Zuiko Digital 17mm f/1.8</Model>
+  <Mount>olympus</Mount>
+  <Exif id="0 22 16" provider="Olympus"/>
+  <FocalLength min="17" max="17"/>
+  <Aperture>0</Aperture>
+  <CropMultiplier>2</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="17" a="0.003596" b="-0.044469" c="0.01853"/>
+   <Vignetting strength="0.5" radius="50" focal="17"/>
+   <ChromaticAberration b_y="-0.03" r_c="0.03" focal="17"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

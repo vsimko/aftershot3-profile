@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Lumix G 20mm f/1.7</Model>
+  <Mount>micro43</Mount>
+  <Exif id="2 5 16" provider="Olympus"/>
+  <Exif id="LUMIX G 20/F1.7" provider="Panasonic"/>
+  <FocalLength min="20" max="20"/>
+  <Aperture>1.7</Aperture>
+  <CropMultiplier>2</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="20" a="-0.0001" b="-0.0074" c="-0.025"/>
+   <Vignetting strength="0.5" radius="50" focal="20"/>
+   <ChromaticAberration b_y="0.07" r_c="0.07" focal="20"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

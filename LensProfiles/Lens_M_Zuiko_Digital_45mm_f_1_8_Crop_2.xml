@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>M.Zuiko Digital 45mm f/1.8</Model>
+  <Mount>micro43</Mount>
+  <Exif id="0 17 16" provider="Olympus"/>
+  <FocalLength min="45" max="45"/>
+  <Aperture>1.8</Aperture>
+  <CropMultiplier>2</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="45" a="-0.00453" b="0.01815" c="-0.01713"/>
+   <Vignetting strength="0.5" radius="50" focal="45"/>
+   <ChromaticAberration b_y="-0.09" r_c="0.05" focal="45"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

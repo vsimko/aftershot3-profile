@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Helios 44-2 58mm f/2.0</Model>
+  <Mount>olympus</Mount>
+  <Exif id="6553.7" provider="Minolta"/>
+  <Exif id="65535.7" provider="Minolta"/>
+  <Exif id="6553.52" provider="Sony"/>
+  <Exif id="65535.52" provider="Sony"/>
+  <Exif id="65536" provider="Sony"/>
+  <FocalLength min="58" max="58"/>
+  <Aperture>2</Aperture>
+  <CropMultiplier>2</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="58" a="0" b="0" c="0"/>
+   <Vignetting strength="0.5" radius="50" focal="58"/>
+   <ChromaticAberration b_y="0" r_c="0" focal="58"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

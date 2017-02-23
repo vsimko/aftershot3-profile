@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>M.Zuiko Digital ED 12-50mm f/3.5-6.3 EZ</Model>
+  <Mount>micro43</Mount>
+  <Exif id="0 16 16" provider="Olympus"/>
+  <FocalLength min="12" max="50"/>
+  <Aperture>3.5</Aperture>
+  <CropMultiplier>2</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="12" a="0" b="-0.025" c="-0.015"/>
+   <RadialDistortion focal="13" a="0" b="-0.0196667" c="-0.0123333"/>
+   <RadialDistortion focal="15" a="0" b="-0.009" c="-0.007"/>
+   <RadialDistortion focal="17" a="0" b="-0.005" c="0"/>
+   <RadialDistortion focal="20" a="0" b="-0.005" c="0.005"/>
+   <RadialDistortion focal="22" a="0" b="-0.005" c="0.005"/>
+   <RadialDistortion focal="25" a="0" b="0" c="0.005"/>
+   <RadialDistortion focal="26" a="0" b="0" c="0.005"/>
+   <RadialDistortion focal="29" a="0" b="0" c="0.005"/>
+   <RadialDistortion focal="33" a="0" b="0" c="0.005"/>
+   <RadialDistortion focal="39" a="0" b="0" c="0.005"/>
+   <RadialDistortion focal="42" a="0" b="0" c="0.005"/>
+   <RadialDistortion focal="47" a="0" b="0" c="0.01"/>
+   <RadialDistortion focal="50" a="0" b="0" c="0.01"/>
+   <Vignetting strength="0.5" radius="50" focal="12"/>
+   <Vignetting strength="0.5" radius="50" focal="13"/>
+   <Vignetting strength="0.5" radius="50" focal="26"/>
+   <ChromaticAberration b_y="0.01" r_c="0.09" focal="12"/>
+   <ChromaticAberration b_y="0.01" r_c="0.08" focal="13"/>
+   <ChromaticAberration b_y="0.24" r_c="-0.13" focal="26"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>

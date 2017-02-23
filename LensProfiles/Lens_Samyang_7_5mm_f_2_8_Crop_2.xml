@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LenseDb>
+ <Lens raw="true" skip="false">
+  <Model>Samyang 7.5mm f/2.8</Model>
+  <Mount>olympus</Mount>
+  <Exif id="0 0 0" provider="Olympus"/>
+  <FocalLength min="7.5" max="7.5"/>
+  <Aperture>2.8</Aperture>
+  <CropMultiplier>2</CropMultiplier>
+  <Converter factor="1" detected="false"/>
+  <CorrectionCoefficients>
+   <RadialDistortion focal="7.5" a="0.049" b="-0.069" c="-0.45"/>
+   <Vignetting strength="0.5" radius="50" focal="7.5"/>
+   <ChromaticAberration b_y="0" r_c="0" focal="7.5"/>
+  </CorrectionCoefficients>
+ </Lens>
+</LenseDb>
